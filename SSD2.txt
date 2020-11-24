@@ -1,0 +1,32 @@
+2.
+Product/Service Description
+In this section, the general factors that affect the product and its requirements. is the ability to pass the accuracy test. The robot must fulfill the requirements that the accuracy test calls for
+2.1
+Product Context
+In the context of other robot products, this product is revolutionary because of its ease of use, simplistic, straightforward code, and extensive compatibility with almost any personal device. This product relates to this team's two other products in that it is one of three of the robotics project. It will be presented in culmination of all three Sprints called the robotics triathlon. This product is independent and self contained; it is completed separately under a different schedule and plan than the other two sprints. This product Is interfaced with a Sphero SPRK+ robot that runs the code behind the this project. This product must pass the accuracy test. 
+2.2
+User Characteristics
+•	Students/ faculty student/ staff/ other with or without experience with an interest in coding in developing software and algorithms.
+•	new inexperienced programmers who are interested in using unique frameworks such as the Sphero Edu platform. Sphero understands block code as well as JavaScript, so it is welcoming in provides options to new and experienced programmers. 
+2.3
+Assumptions 
+It Is assumed that:
+•	user has access to a Sphero SPRK+ robot as well as its required accessories: carrying case, charger block, charging cable, charging cradle, and silicone cover.
+•	user has access to a Sphero-supported operating system/ device 
+•	Bluetooth capability of the parent device to facilitate a connection with this Sphero robot 
+•	user knows how to operate and navigate the Sphero Edu application 
+•	user has access to a Wi-Fi connection 
+2.4
+Constraints
+•	Project deadline: Tuesday, November 24th, 2020 at 1:15 PM 
+•	team members’ schedules and availability 
+•	access to the Monmouth University campus is limited due to COVID-19 safety restrictions 
+o	the team decided that it is best to stay safe and complete this project off campus 
+•	the original accuracy course layout in Howard Hall (HH) 208 has a Figure 8 lay out on the floor 5’2 being the diameter for one circle 10’4 for both circles. The software still performs per the requirements 
+2.5
+Dependencies
+•	Access to a Sphero SPRK+ robot 
+•	access to an up-to-date version of the Sphero Edu application on a phone , tablet or computer 
+•	access to the latest version of code for this project 
+•	access to a Wi-Fi network and a Bluetooth enabled device to connect to the robot 
+•	access to an area with the dimensions of at least 10 feet in 4 inches by 5 feet 2 inches 
