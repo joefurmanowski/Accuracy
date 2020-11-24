@@ -1,0 +1,13 @@
+1.	Executive Summary
+1.1	Project Overview
+This system design document encapsulates the second part of the three-part robotics project in CS-104: accuracy. The goal of the robotics project is to design and document three separate sprints that focus on endurance, accuracy, and speed. This project, referred to as Sprint 2 - Accuracy, focuses on the robot’s ability to navigate a figure-eight course. The accuracy sprint requires that a Sphero robot follows the figure-eight path five times and that the robot indicates the program’s end with sound and strobing lights. This project’s intended audience is Professor Eckert, all CS-104 sections, any faculty member or student part of the Monmouth University Computer Science and Software Engineering Department, and anyone with or without experience with an interest in coding and developing software and algorithms.
+1.2	Purpose and Scope of this Specification
+The purpose of this project is to design the software necessary for the robot to complete the accuracy course. In this sprint, the Sphero robot must demonstrate its ability to run around the figure-eight course five times. This project’s intended audience is Professor Eckert, all CS-104 sections, any faculty member or student part of the Monmouth University Computer Science and Software Engineering Department, and anyone with or without experience with an interest in coding and developing software and algorithms.
+In Scope
+This document addresses requirements related to Phase 2 of the Robotics Project:
+•	modification and execution of Sphero Edu code to meet the mandates of Sprint 2 – Accuracy
+
+Out of Scope
+The following items in Phases 1 and 3 of the Robotics Project are out of scope:
+•	modification and execution of Sphero Edu code to meet the mandates of Sprint 1 – Endurance (Phase 1)
+•	modification and execution of Sphero Edu code to meet the mandates of Sprint 3 – Agility (Phase 3)
